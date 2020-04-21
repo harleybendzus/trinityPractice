@@ -31,10 +31,10 @@
 ### unp_1.fastq.gz & unp_2.fastq.gz
 - These are files that store errored output for forward(1) and reverse(2) reads there were unable to be cleaned
 
-### SRR11284036_1.fastq.html
+### clean_SRR11284036_1.fastqc.html
 - This is the FastQC output of the clean, trimmed-forward reads.
 
-### SRR11284036_2.fastq.html
+### clean_SRR11284036_2.fastqc.html
 - This is the FastQC output of the clean, trimmed-reverse reads.
 
 ### Trinity.fasta.transdecoder_dir
